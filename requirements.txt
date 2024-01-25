@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+ipykernel
+seaborn
+matplotlib
+Flask
+
+-e .  #for installing setup.py
